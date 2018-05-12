@@ -1,0 +1,32 @@
+_repo: The-Captive-in-Patagonia_38408
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bourne, Benjamin Franklin
+    birthdate: 1816
+    deathdate: 1874
+    gutenberg_agent_id: '39446'
+    url: http://www.gutenberg.org/2009/agents/39446
+description: ''
+gutenberg_issued: '2011-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38408'
+  lccn: '04011445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian captivities -- Argentina'
+- !lcsh 'Bourne, Benjamin Franklin, 1816-1874'
+- !lcsh 'Indians of South America -- Patagonia (Argentina and Chile)'
+- !lcsh 'Tehuelche Indians -- Social life and customs'
+- !lcc 'F2801'
+- !lcsh 'Indian captivities -- Patagonia (Argentina and Chile)'
+- !lcsh 'Patagonia (Argentina and Chile) -- Description and travel'
+title: The Captive in Patagonia
+url: http://www.gutenberg.org/ebooks/38408
